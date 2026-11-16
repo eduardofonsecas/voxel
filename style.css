@@ -1,3 +1,4 @@
+
 html, body {
     height: 100%;
 }
@@ -53,6 +54,10 @@ nav {
 main {
     flex: 1;
     padding: 40px;
+}
+
+.tracado {
+    text-decoration: line-through;
 }
 
 footer {
